@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320" viewBox="0 0 480 320">
+  <rect width="480" height="320" rx="24" fill="#0d1426"/>
+  <circle cx="240" cy="140" r="90" fill="#26d7ff" opacity="0.16"/>
+  <path d="M240 70l34 60 68 12-48 47 11 68-65-34-65 34 11-68-48-47 68-12z" fill="#f5f7ff"/>
+  <text x="240" y="270" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="26" font-weight="700" fill="#9fdcff">Achievement Highlight</text>
+</svg>

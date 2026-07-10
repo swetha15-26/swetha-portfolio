@@ -1,0 +1,6 @@
+<svg width="240" height="160" viewBox="0 0 240 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="160" rx="24" fill="#0F172A"/>
+  <path d="M66 116C66 104.954 75.9543 95 87 95H153C164.046 95 174 104.954 174 116V117C174 128.046 164.046 138 153 138H87C75.9543 138 66 128.046 66 117V116Z" fill="#F59E0B"/>
+  <path d="M86 85C86 73.9543 95.9543 64 107 64H133C144.046 64 154 73.9543 154 85V92C154 103.046 144.046 113 133 113H107C95.9543 113 86 103.046 86 92V85Z" fill="#E5E7EB"/>
+  <text x="120" y="146" fill="#E2E8F0" font-family="Inter, sans-serif" font-size="18" font-weight="700" text-anchor="middle">AWS</text>
+</svg>

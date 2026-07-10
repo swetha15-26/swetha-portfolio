@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="480" viewBox="0 0 800 480">
+  <rect width="800" height="480" rx="32" fill="#0d1426"/>
+  <rect x="46" y="46" width="708" height="388" rx="24" fill="#161d38" stroke="#7b61ff" stroke-width="3"/>
+  <text x="400" y="178" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="42" font-weight="700" fill="#ffffff">IBM</text>
+  <text x="400" y="242" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="24" fill="#c8b6ff">Technology & Innovation</text>
+  <rect x="220" y="292" width="360" height="54" rx="27" fill="#7b61ff"/>
+  <text x="400" y="328" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="22" font-weight="700" fill="#ffffff">Future Skills</text>
+</svg>

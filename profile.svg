@@ -1,0 +1,26 @@
+<svg width="900" height="1100" viewBox="0 0 900 1100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F1628" />
+      <stop offset="100%" stop-color="#23314D" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#26D7FF" />
+      <stop offset="100%" stop-color="#7B61FF" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="1100" rx="48" fill="url(#bg)" />
+  <circle cx="690" cy="240" r="180" fill="url(#accent)" opacity="0.25" />
+  <circle cx="230" cy="920" r="220" fill="#4DE8C2" opacity="0.15" />
+  <rect x="180" y="170" width="540" height="730" rx="36" fill="rgba(255,255,255,0.07)" stroke="rgba(255,255,255,0.12)" />
+  <circle cx="450" cy="407" r="155" fill="#0E1626" stroke="url(#accent)" stroke-width="10" />
+  <path d="M320 430c0-93 62-160 130-160s130 67 130 160v95H320z" fill="#E8E8F9" />
+  <circle cx="450" cy="395" r="78" fill="#F2C08D" />
+  <path d="M330 360c24-88 90-124 120-124 52 0 94 36 107 124" fill="none" stroke="#0E1626" stroke-width="16" stroke-linecap="round" />
+  <rect x="280" y="620" width="340" height="170" rx="26" fill="#0E1626" />
+  <rect x="310" y="650" width="130" height="18" rx="9" fill="#26D7FF" />
+  <rect x="310" y="688" width="200" height="16" rx="8" fill="#7B61FF" />
+  <rect x="310" y="720" width="170" height="16" rx="8" fill="#4DE8C2" />
+  <text x="450" y="980" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="44" fill="#F5F7FF" font-weight="700">SWETHA ARULKUMAR</text>
+  <text x="450" y="1030" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="28" fill="#A6B2CB">Cybersecurity • AI • Growth</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg width="240" height="160" viewBox="0 0 240 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="160" rx="24" fill="#0F172A"/>
+  <rect x="16" y="16" width="80" height="80" rx="16" fill="#F59E0B"/>
+  <rect x="120" y="16" width="80" height="80" rx="16" fill="#3B82F6"/>
+  <rect x="16" y="96" width="80" height="48" rx="16" fill="#10B981"/>
+  <rect x="120" y="96" width="80" height="48" rx="16" fill="#EF4444"/>
+  <text x="120" y="138" fill="#E2E8F0" font-family="Inter, sans-serif" font-size="18" font-weight="700" text-anchor="middle">MICROSOFT</text>
+</svg>

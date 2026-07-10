@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="320" viewBox="0 0 480 320">
+  <rect width="480" height="320" rx="24" fill="#0d1426"/>
+  <circle cx="240" cy="160" r="106" fill="none" stroke="#4de8c2" stroke-width="10"/>
+  <path d="M240 88v72l48 28" fill="none" stroke="#f5f7ff" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="240" y="270" text-anchor="middle" font-family="Segoe UI, sans-serif" font-size="24" font-weight="700" fill="#8deeff">Growth Timeline</text>
+</svg>
